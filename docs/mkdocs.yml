@@ -14,6 +14,7 @@ nav:
   - Commands: cli.md
   - Configuration: configuration.md
   - Repositories: repositories.md
+  - Managing environments: managing-environments.md
   - Versions: versions.md
   - The pyproject.toml file: pyproject.md
   - Contributing: contributing.md
@@ -25,3 +26,5 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: 
+  - markdown_include.include:
+      base_path: docs

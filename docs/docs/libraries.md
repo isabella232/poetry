@@ -2,11 +2,6 @@
 
 This chapter will tell you how to make your library installable through Poetry.
 
-## Every project is a package
-
-As soon as you have a `pyproject.toml` in a directory, that directory is a package.
-However, to make it accessible to others you will need to package and publish it.
-
 
 ## Versioning
 
